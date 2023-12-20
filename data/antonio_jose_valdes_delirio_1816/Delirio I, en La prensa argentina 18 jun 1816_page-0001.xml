@@ -30,7 +30,7 @@
                    WIDTH="237"
                    HEIGHT="101"
                    ID="eSc_textblock_736e8b0f"
-                   >
+                   TAGREFS="BT1864">
           <Shape><Polygon POINTS="1144 290 1167 391 1377 391 1381 290"/></Shape>
           
           
@@ -380,6 +380,33 @@
                     VPOS="2889"
                     WIDTH="1710"
                     HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2010"
+                   VPOS="3077"
+                   WIDTH="300"
+                   HEIGHT="226"
+                   ID="eSc_textblock_c2fcf396"
+                   TAGREFS="BT1874">
+          <Shape><Polygon POINTS="2010 3077 2010 3303 2279 3298 2310 3077"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_df179b67"
+                    TAGREFS="LT753"
+                    BASELINE="2038 3252 2123 3248 2235 3242" 
+                    HPOS="2029"
+                    VPOS="3107"
+                    WIDTH="203"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="2035 3249 2035 3264 2232 3249 2232 3240 2227 3139 2177 3110 2174 3110 2171 3110 2168 3110 2166 3110 2163 3110 2163 3113 2148 3127 2099 3107 2096 3107 2093 3107 2090 3107 2087 3107 2029 3142 2035 3249"/></Shape>
+	    <String CONTENT="65"
+                    HPOS="2029"
+                    VPOS="3107"
+                    WIDTH="203"
+                    HEIGHT="157"></String>
           </TextLine>
 
           

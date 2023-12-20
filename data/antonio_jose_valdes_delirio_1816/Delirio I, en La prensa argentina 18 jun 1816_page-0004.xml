@@ -30,8 +30,8 @@
                    WIDTH="95"
                    HEIGHT="83"
                    ID="eSc_textblock_4b511524"
-                   >
-          <Shape><Polygon POINTS="1220 257 1215 340 1310 339 1306 258"/></Shape>
+                   TAGREFS="BT1872">
+          <Shape><Polygon POINTS="1220 257 1215 340 1262 340 1310 339 1306 258"/></Shape>
           
           
           <TextLine ID="eSc_line_e09ddd28"
@@ -645,7 +645,7 @@
                    WIDTH="235"
                    HEIGHT="254"
                    ID="eSc_textblock_f5818646"
-                   >
+                   TAGREFS="BT1874">
           <Shape><Polygon POINTS="158 3111 148 3356 383 3351 378 3102"/></Shape>
           
           

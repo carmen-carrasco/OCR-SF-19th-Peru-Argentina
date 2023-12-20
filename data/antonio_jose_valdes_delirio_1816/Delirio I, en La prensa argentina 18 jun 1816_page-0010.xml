@@ -25,13 +25,13 @@
                   WIDTH="2480"
                   HEIGHT="3488">
         
-        <TextBlock HPOS="333"
-                   VPOS="337"
-                   WIDTH="1845"
-                   HEIGHT="783"
+        <TextBlock HPOS="361"
+                   VPOS="365"
+                   WIDTH="1789"
+                   HEIGHT="760"
                    ID="eSc_textblock_c2cebbda"
                    TAGREFS="BT1862">
-          <Shape><Polygon POINTS="333 337 333 1120 2178 1120 2178 337"/></Shape>
+          <Shape><Polygon POINTS="361 365 365 1120 2150 1125 2122 393"/></Shape>
           
           
           <TextLine ID="eSc_line_d88910eb"
@@ -552,6 +552,43 @@
                     HEIGHT="143"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="91"
+                   VPOS="3076"
+                   WIDTH="300"
+                   HEIGHT="252"
+                   ID="eSc_textblock_dc1a942b"
+                   TAGREFS="BT1874">
+          <Shape><Polygon POINTS="91 3076 91 3328 391 3328 391 3076"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8081bea6"
+                    
+                    BASELINE="129 3303 137 3303 188 3303 353 3303" 
+                    HPOS="127"
+                    VPOS="3113"
+                    WIDTH="224"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="127 3301 127 3313 351 3313 351 3301 351 3136 261 3113 258 3113 255 3113 218 3133 180 3113 177 3113 174 3113 171 3113 127 3133 127 3301"/></Shape>
+	    <String CONTENT="74"
+                    HPOS="127"
+                    VPOS="3113"
+                    WIDTH="224"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1191"
+                   VPOS="259"
+                   WIDTH="184"
+                   HEIGHT="115"
+                   ID="eSc_textblock_e9b645ce"
+                   TAGREFS="BT1872">
+          <Shape><Polygon POINTS="1191 259 1191 374 1375 369 1375 259"/></Shape>
           
         </TextBlock>
         

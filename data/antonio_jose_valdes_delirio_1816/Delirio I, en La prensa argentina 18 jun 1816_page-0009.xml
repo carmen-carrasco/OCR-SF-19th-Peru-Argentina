@@ -31,7 +31,7 @@
                    HEIGHT="2664"
                    ID="eSc_textblock_8b94d65b"
                    TAGREFS="BT1862">
-          <Shape><Polygon POINTS="329 419 329 3083 2127 3083 2127 419"/></Shape>
+          <Shape><Polygon POINTS="366 428 329 3083 2127 3083 2127 419"/></Shape>
           
           
           <TextLine ID="eSc_line_96b5e5bb"
@@ -608,6 +608,60 @@
                     VPOS="2956"
                     WIDTH="1712"
                     HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1153"
+                   VPOS="334"
+                   WIDTH="140"
+                   HEIGHT="78"
+                   ID="eSc_textblock_a7606200"
+                   TAGREFS="BT1872">
+          <Shape><Polygon POINTS="1167 334 1153 403 1293 412 1284 343"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a1118c2"
+                    
+                    BASELINE="1183 404 1264 404" 
+                    HPOS="1183"
+                    VPOS="337"
+                    WIDTH="81"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1212 348 1189 337 1183 342 1183 404 1183 418 1264 418 1264 404 1264 369 1241 360"/></Shape>
+	    <String CONTENT="9."
+                    HPOS="1183"
+                    VPOS="337"
+                    WIDTH="81"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1998"
+                   VPOS="3107"
+                   WIDTH="255"
+                   HEIGHT="196"
+                   ID="eSc_textblock_941d292c"
+                   TAGREFS="BT1874">
+          <Shape><Polygon POINTS="1998 3107 1998 3303 2253 3303 2253 3107"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e308321b"
+                    
+                    BASELINE="2022 3295 2045 3295 2084 3295 2206 3295" 
+                    HPOS="2020"
+                    VPOS="3206"
+                    WIDTH="183"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2020 3293 2020 3304 2203 3304 2203 3293 2203 3220 2180 3206 2177 3206 2174 3206 2171 3206 2168 3206 2128 3223 2055 3206 2052 3206 2049 3206 2046 3206 2043 3206 2020 3220 2020 3293"/></Shape>
+	    <String CONTENT="73"
+                    HPOS="2020"
+                    VPOS="3206"
+                    WIDTH="183"
+                    HEIGHT="98"></String>
           </TextLine>
 
           

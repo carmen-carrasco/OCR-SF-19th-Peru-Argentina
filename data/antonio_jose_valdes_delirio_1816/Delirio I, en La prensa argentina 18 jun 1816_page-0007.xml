@@ -25,6 +25,33 @@
                   WIDTH="2480"
                   HEIGHT="3488">
         
+        <TextBlock HPOS="1196"
+                   VPOS="247"
+                   WIDTH="113"
+                   HEIGHT="112"
+                   ID="eSc_textblock_3438b6ee"
+                   TAGREFS="BT1872">
+          <Shape><Polygon POINTS="1196 247 1196 359 1309 359 1309 247"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_01e9e07d"
+                    
+                    BASELINE="1215 328 1279 334" 
+                    HPOS="1212"
+                    VPOS="264"
+                    WIDTH="67"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1218 264 1215 328 1212 337 1273 342 1279 334 1273 287 1247 270"/></Shape>
+	    <String CONTENT="7."
+                    HPOS="1212"
+                    VPOS="264"
+                    WIDTH="67"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="321"
                    VPOS="333"
                    WIDTH="1791"
@@ -608,6 +635,33 @@
                     VPOS="2860"
                     WIDTH="1701"
                     HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1939"
+                   VPOS="3044"
+                   WIDTH="263"
+                   HEIGHT="263"
+                   ID="eSc_textblock_92d6946d"
+                   TAGREFS="BT1874">
+          <Shape><Polygon POINTS="1939 3044 1939 3307 2202 3307 2202 3044"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_118239de"
+                    
+                    BASELINE="1976 3291 1976 3291 1995 3291 2043 3291 2184 3291" 
+                    HPOS="1974"
+                    VPOS="3060"
+                    WIDTH="209"
+                    HEIGHT="241">
+            <Shape><Polygon POINTS="1974 3290 1974 3301 2183 3301 2183 3290 2180 3072 2122 3083 2113 3075 2099 3063 2099 3060 2096 3060 2093 3060 2090 3060 2014 3063 2011 3063 1974 3081 1974 3290"/></Shape>
+	    <String CONTENT="71"
+                    HPOS="1974"
+                    VPOS="3060"
+                    WIDTH="209"
+                    HEIGHT="241"></String>
           </TextLine>
 
           

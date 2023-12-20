@@ -26,12 +26,12 @@
                   HEIGHT="3488">
         
         <TextBlock HPOS="311"
-                   VPOS="315"
+                   VPOS="347"
                    WIDTH="1832"
-                   HEIGHT="2689"
+                   HEIGHT="2657"
                    ID="eSc_textblock_0e9157db"
                    TAGREFS="BT1862">
-          <Shape><Polygon POINTS="311 315 311 3004 2143 3004 2143 315"/></Shape>
+          <Shape><Polygon POINTS="343 347 311 3004 2143 3004 2120 357"/></Shape>
           
           
           <TextLine ID="eSc_line_ee3123f5"
@@ -627,6 +627,43 @@
                     HEIGHT="105"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1960"
+                   VPOS="3029"
+                   WIDTH="285"
+                   HEIGHT="277"
+                   ID="eSc_textblock_06e8c84c"
+                   TAGREFS="BT1874">
+          <Shape><Polygon POINTS="1960 3029 1960 3306 2245 3306 2245 3029"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_34b9657d"
+                    
+                    BASELINE="1957 3306 2215 3306" 
+                    HPOS="1956"
+                    VPOS="3049"
+                    WIDTH="256"
+                    HEIGHT="267">
+            <Shape><Polygon POINTS="1956 3304 1956 3316 2212 3316 2212 3304 2212 3075 2174 3057 2171 3057 2168 3057 2166 3057 2125 3078 2078 3049 2075 3049 2072 3049 2070 3049 2067 3049 2064 3049 2003 3101 1997 3107 1956 3107 1956 3304"/></Shape>
+	    <String CONTENT="69."
+                    HPOS="1956"
+                    VPOS="3049"
+                    WIDTH="256"
+                    HEIGHT="267"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1155"
+                   VPOS="243"
+                   WIDTH="149"
+                   HEIGHT="97"
+                   ID="eSc_textblock_74aac33f"
+                   TAGREFS="BT1872">
+          <Shape><Polygon POINTS="1155 243 1164 340 1295 340 1304 243 1238 243"/></Shape>
           
         </TextBlock>
         
