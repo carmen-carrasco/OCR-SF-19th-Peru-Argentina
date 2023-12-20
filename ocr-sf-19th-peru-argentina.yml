@@ -1,0 +1,28 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: OCR-SF-19th-Peru-Argentina
+url: https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina
+authors:
+  - name: 'Carmen '
+    surname: Carrasco
+    roles:
+      - transcriber
+institutions: []
+description: OCR-SF-19th-Peru-Argentina
+project-name: FonDUE
+language:
+  - spa
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1816'
+  notAfter: '1899'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
