@@ -26,3 +26,7 @@ license:
   type: CC-BY
   version: 4.0
 format: Alto-XML
+volume:
+  - metric: pages
+    count: 30
+    
