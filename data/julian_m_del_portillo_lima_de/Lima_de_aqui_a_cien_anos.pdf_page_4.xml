@@ -41,7 +41,7 @@
                     VPOS="43"
                     WIDTH="69"
                     HEIGHT="57">
-            <Shape><Polygon POINTS="685 43 667 43 649 43 630 43 630 85 629 100 696 100 698 87 696 43 685 43"/></Shape>
+            <Shape><Polygon POINTS="667 43 649 43 630 43 630 85 629 100 696 100 698 87 696 43 685 43"/></Shape>
 	    <String CONTENT="(4)"
                     HPOS="629"
                     VPOS="43"
@@ -58,7 +58,7 @@
                    HEIGHT="1881"
                    ID="eSc_textblock_6f30a40a"
                    >
-          <Shape><Polygon POINTS="68 80 18 1926 1203 1961 1244 118"/></Shape>
+          <Shape><Polygon POINTS="68 80 18 1926 1203 1961 1244 120"/></Shape>
           
           
           <TextLine ID="eSc_line_4ab085f2"
