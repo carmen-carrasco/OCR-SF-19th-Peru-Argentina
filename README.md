@@ -1,4 +1,4 @@
-# HTR data for 19th Century Science Fiction from Peru and Argentina
+# HTR data for 19th Century Speculative Fiction from Peru and Argentina
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
