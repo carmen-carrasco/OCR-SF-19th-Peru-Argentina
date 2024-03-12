@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>29432245.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT27" LABEL="DigitizationArtifactZone" DESCRIPTION="block type DigitizationArtifactZone"/><OtherTag ID="BT28" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/><OtherTag ID="BT29" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT30" LABEL="NumberingZone:folio" DESCRIPTION="block type NumberingZone:folio"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1758"
+          HEIGHT="2378"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1758"
+                  HEIGHT="2378">
+        <TextBlock HPOS="273.0"
+                   VPOS="410.0"
+                   WIDTH="1106.0"
+                   HEIGHT="1616.0"
+                   ID="block_0"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="1379 410 1379 2026 273 2026 273 410"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="311 557 1344 554" 
+                    HPOS="310.0"
+                    VPOS="432.0"
+                    WIDTH="1034.0"
+                    HEIGHT="141.0">
+            <Shape><Polygon POINTS="311 568 422 565 440 569 452 572 453 572 454 572 471 569 489 565 494 569 496 572 498 572 499 572 621 573 622 573 623 573 635 568 641 565 646 568 658 573 659 573 660 573 662 573 686 568 695 565 704 568 726 573 728 573 729 573 730 573 754 566 764 565 774 566 814 573 815 573 816 573 818 573 826 566 830 564 921 564 925 565 931 572 933 572 934 572 935 573 1315 573 1315 572 1316 572 1344 562 1344 554 1342 443 1331 434 1329 434 1328 434 1295 433 1294 433 1292 433 1291 433 1271 445 1270 446 1268 445 1257 435 1255 435 1254 435 1192 433 1190 433 1189 433 1188 433 1173 443 1163 451 1149 443 1132 434 1131 434 1036 432 1034 432 1033 432 1032 432 1017 443 1007 451 996 442 982 432 980 432 979 432 978 432 976 432 975 432 962 442 949 453 851 453 836 441 830 435 828 435 827 435 799 433 798 433 797 433 781 441 758 453 738 441 726 433 725 433 724 433 723 433 721 433 705 441 691 449 679 441 670 433 668 433 667 433 666 433 630 439 625 441 618 439 590 433 589 433 588 433 586 433 585 433 576 439 573 441 534 439 407 433 405 433 404 433 403 433 396 438 385 447 371 438 368 435 367 435 366 435 364 435 310 437 311 557"/></Shape>
+	    <String CONTENT="BUENOS AIRES"
+                    HPOS="310.0"
+                    VPOS="432.0"
+                    WIDTH="1034.0"
+                    HEIGHT="141.0"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="436 749 1220 746" 
+                    HPOS="434.0"
+                    VPOS="683.0"
+                    WIDTH="786.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="436 756 475 763 477 763 478 763 491 756 495 754 496 756 503 762 503 763 504 763 506 763 507 764 543 764 543 763 544 763 545 763 545 762 552 756 555 754 600 754 602 755 609 762 609 763 610 763 611 763 613 764 647 764 647 763 649 763 650 763 662 755 670 762 670 763 671 763 672 763 674 764 711 764 711 763 712 763 713 763 713 762 721 754 723 754 758 754 767 762 767 763 769 763 770 763 771 764 816 764 816 763 818 763 819 763 819 762 827 755 834 762 835 762 836 762 838 763 880 763 880 762 881 762 882 762 882 760 892 753 931 762 933 762 934 762 935 762 935 760 946 753 975 753 997 753 1007 760 1007 762 1008 762 1009 762 1011 763 1038 763 1038 762 1040 762 1061 753 1087 762 1089 762 1090 762 1091 762 1116 753 1143 762 1144 762 1146 762 1147 762 1175 753 1201 762 1202 762 1204 762 1205 762 1206 762 1220 751 1220 746 1218 701 1188 686 1186 686 1185 686 1184 686 1183 686 1183 688 1168 701 1164 704 1160 701 1138 684 1136 684 1135 684 1134 684 1132 684 1131 684 1110 700 1106 704 1102 700 1078 685 1077 685 1075 685 1074 685 1073 685 1071 685 1071 686 1056 700 1050 704 1045 700 1024 684 1023 684 1021 684 1020 684 1019 684 1017 684 997 700 990 706 954 706 947 700 933 686 933 685 931 685 930 685 929 685 927 685 902 698 897 702 893 698 876 684 876 683 875 683 873 683 844 683 843 683 841 683 840 683 840 684 824 698 816 705 807 698 793 686 791 686 790 686 789 686 787 686 786 686 786 688 774 698 765 708 715 708 705 697 695 688 695 686 693 686 692 686 675 686 674 686 672 686 671 686 671 688 660 697 659 698 658 697 647 688 647 686 646 686 645 686 613 685 611 685 610 685 609 685 609 686 597 697 586 708 568 708 557 697 545 686 545 685 544 685 543 685 506 685 504 685 503 685 502 685 502 686 490 696 490 697 489 696 477 686 477 685 475 685 474 685 442 685 441 685 440 685 438 685 438 686 437 686 434 688 436 749"/></Shape>
+	    <String CONTENT="EN EL AÑO 2080"
+                    HPOS="434.0"
+                    VPOS="683.0"
+                    WIDTH="786.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT10"
+                    BASELINE="534 936 1122 936" 
+                    HPOS="534.0"
+                    VPOS="885.0"
+                    WIDTH="588.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="534 948 1122 948 1122 936 1122 891 1094 885 1093 885 1091 885 764 891 756 885 754 885 753 885 613 885 611 885 534 891 534 936"/></Shape>
+	    <String CONTENT="HISTORIA VEROSIMIL"
+                    HPOS="534.0"
+                    VPOS="885.0"
+                    WIDTH="588.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT10"
+                    BASELINE="469 1118 1176 1118" 
+                    HPOS="469.0"
+                    VPOS="1071.0"
+                    WIDTH="707.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="469 1129 537 1125 555 1129 572 1133 573 1133 574 1133 576 1133 589 1129 600 1125 604 1129 608 1132 608 1133 609 1133 610 1133 611 1133 633 1128 642 1126 649 1128 662 1133 663 1133 664 1133 666 1133 667 1133 667 1132 671 1128 675 1125 713 1125 716 1128 721 1132 721 1133 723 1133 724 1133 725 1134 774 1134 774 1133 775 1133 777 1133 783 1128 785 1125 789 1128 802 1133 803 1133 804 1133 806 1133 807 1133 807 1132 812 1126 815 1125 857 1125 859 1126 865 1132 865 1133 867 1133 868 1133 869 1134 901 1134 901 1133 902 1133 916 1126 918 1125 922 1126 949 1133 950 1133 951 1133 953 1133 972 1125 975 1125 978 1125 1007 1133 1008 1133 1009 1133 1011 1133 1036 1125 1044 1132 1044 1133 1045 1133 1046 1133 1048 1134 1093 1134 1093 1133 1094 1133 1115 1125 1134 1133 1135 1133 1136 1133 1138 1133 1139 1133 1139 1132 1146 1126 1155 1132 1156 1132 1157 1132 1159 1132 1160 1132 1176 1124 1176 1118 1176 1075 1159 1071 1157 1071 1156 1071 1155 1071 1151 1075 1144 1079 1135 1075 1127 1071 1126 1071 1124 1071 1123 1071 1122 1071 1118 1075 1106 1083 1097 1075 1093 1072 1093 1071 1091 1071 1090 1071 1049 1071 1048 1071 1046 1071 1045 1071 1045 1072 1042 1075 1029 1087 1016 1075 1015 1074 1013 1074 1012 1074 991 1072 990 1072 988 1072 987 1072 984 1075 967 1087 955 1075 953 1074 953 1072 951 1072 950 1072 927 1072 926 1072 925 1072 923 1072 923 1074 921 1075 913 1084 904 1075 902 1075 902 1074 901 1074 900 1074 877 1072 876 1072 875 1072 873 1072 873 1074 871 1075 852 1092 775 1092 760 1075 758 1075 758 1074 757 1074 756 1074 754 1074 753 1074 752 1074 750 1075 730 1092 672 1092 645 1075 641 1072 639 1072 638 1072 613 1072 611 1072 610 1072 609 1072 609 1074 606 1075 593 1087 580 1075 578 1074 577 1074 576 1074 555 1072 553 1072 552 1072 551 1072 547 1075 530 1089 512 1075 508 1072 507 1072 506 1072 504 1072 469 1075 469 1118"/></Shape>
+	    <String CONTENT="POR A. SIOEN"
+                    HPOS="469.0"
+                    VPOS="1071.0"
+                    WIDTH="707.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT8"
+                    BASELINE="659 1725 986 1725" 
+                    HPOS="659.0"
+                    VPOS="1693.0"
+                    WIDTH="327.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="659 1737 986 1737 986 1725 986 1693 659 1693 659 1725"/></Shape>
+	    <String CONTENT="BUENOS AIRES"
+                    HPOS="659.0"
+                    VPOS="1693.0"
+                    WIDTH="327.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT8"
+                    BASELINE="391 1805 1253 1805" 
+                    HPOS="391.0"
+                    VPOS="1778.0"
+                    WIDTH="862.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="391 1816 1253 1816 1253 1805 1253 1778 391 1778 391 1805"/></Shape>
+	    <String CONTENT="IGON HERMANOS-EDITORES"
+                    HPOS="391.0"
+                    VPOS="1778.0"
+                    WIDTH="862.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT8"
+                    BASELINE="548 1866 1101 1866" 
+                    HPOS="548.0"
+                    VPOS="1845.0"
+                    WIDTH="553.0"
+                    HEIGHT="33.0">
+            <Shape><Polygon POINTS="548 1878 1101 1878 1101 1866 1101 1846 548 1845 548 1866"/></Shape>
+	    <String CONTENT="Libreria del Colegio–Calle Bolivar N.° 60."
+                    HPOS="548.0"
+                    VPOS="1845.0"
+                    WIDTH="553.0"
+                    HEIGHT="33.0"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT8"
+                    BASELINE="742 1967 905 1963" 
+                    HPOS="741.0"
+                    VPOS="1930.0"
+                    WIDTH="164.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="742 1975 746 1979 746 1980 748 1980 749 1980 750 1980 781 1973 791 1980 793 1980 794 1980 795 1980 797 1980 822 1972 844 1979 845 1979 847 1979 848 1979 849 1979 849 1977 851 1977 856 1971 889 1977 890 1977 892 1977 893 1977 905 1969 905 1963 901 1935 818 1936 798 1930 797 1930 795 1930 794 1930 793 1930 783 1938 750 1931 749 1931 748 1931 746 1931 741 1934 742 1967"/></Shape>
+	    <String CONTENT="1879"
+                    HPOS="741.0"
+                    VPOS="1930.0"
+                    WIDTH="164.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="813"
+                   VPOS="2235"
+                   WIDTH="403"
+                   HEIGHT="91"
+                   ID="eSc_textblock_ed36b14d"
+                   TAGREFS="BT9">
+          <Shape><Polygon POINTS="813 2235 813 2326 1216 2326 1216 2235"/></Shape>
+          <TextLine ID="eSc_line_fbc37830"
+                    TAGREFS="LT8"
+                    BASELINE="830 2308 1198 2312" 
+                    HPOS="826.0"
+                    VPOS="2247.0"
+                    WIDTH="371.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="826 2312 858 2324 860 2324 862 2324 1072 2316 1094 2326 1096 2326 1098 2326 1195 2314 1197 2310 1197 2269 1167 2249 1165 2249 1163 2249 1161 2249 1070 2267 1014 2247 1012 2247 987 2247 985 2247 983 2247 981 2247 981 2249 959 2269 828 2269 828 2306"/></Shape>
+	    <String CONTENT="Digitized by Google"
+                    HPOS="826.0"
+                    VPOS="2247.0"
+                    WIDTH="371.0"
+                    HEIGHT="79.0"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
