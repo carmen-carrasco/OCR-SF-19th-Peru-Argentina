@@ -353,6 +353,7 @@
                     HEIGHT="83"></String>
           </TextLine>
           <TextLine ID="eSc_line_f32c5c54"
+                    TAGREFS="LT8"
                     BASELINE="183 2210 1251 2220" 
                     HPOS="180"
                     VPOS="2144"
