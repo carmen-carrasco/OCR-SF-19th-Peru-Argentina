@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>29432246.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT28" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/><OtherTag ID="BT29" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT30" LABEL="NumberingZone:folio" DESCRIPTION="block type NumberingZone:folio"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1750"
+          HEIGHT="2391"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1750"
+                  HEIGHT="2391">
+        <TextBlock HPOS="331.0"
+                   VPOS="821.0"
+                   WIDTH="1161.0"
+                   HEIGHT="571.0"
+                   ID="block_0"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1492 831 1466 1392 331 1392 352 821"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT8"
+                    BASELINE="479 1101 1287 1095" 
+                    HPOS="478.0"
+                    VPOS="1065.0"
+                    WIDTH="809.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="479 1111 1286 1111 1287 1095 1284 1071 1141 1065 1140 1065 1138 1065 1121 1071 1098 1065 1097 1065 1096 1065 1094 1065 1080 1073 1078 1073 1077 1073 1064 1066 1063 1066 1061 1066 977 1073 971 1073 970 1073 948 1066 947 1066 946 1066 884 1073 874 1074 858 1074 762 1067 761 1067 760 1067 741 1074 740 1074 717 1067 716 1067 714 1067 478 1075 479 1101"/></Shape>
+	    <String CONTENT="5559 — Imprenta del &quot;Porvenir,” calle Defensa 139."
+                    HPOS="478.0"
+                    VPOS="1065.0"
+                    WIDTH="809.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="787"
+                   VPOS="2233"
+                   WIDTH="441"
+                   HEIGHT="123"
+                   ID="block_1"
+                   TAGREFS="BT9">
+          <Shape><Polygon POINTS="1228 2233 1228 2356 787 2356 787 2233"/></Shape>
+          <TextLine ID="eSc_line_5e7d2147"
+                    TAGREFS="LT8"
+                    BASELINE="842 2328 1197 2323" 
+                    HPOS="839.0"
+                    VPOS="2261.0"
+                    WIDTH="356.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="841 2331 1195 2327 1195 2321 1193 2281 1140 2261 1138 2261 1136 2261 1134 2261 1068 2279 984 2263 982 2263 980 2263 978 2263 952 2283 950 2285 839 2285 841 2327"/></Shape>
+	    <String CONTENT="Digitized by Google"
+                    HPOS="839.0"
+                    VPOS="2261.0"
+                    WIDTH="356.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

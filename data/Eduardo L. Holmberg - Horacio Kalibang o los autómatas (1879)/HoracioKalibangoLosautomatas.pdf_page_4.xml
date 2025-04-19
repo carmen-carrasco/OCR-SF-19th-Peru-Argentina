@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>HoracioKalibangoLosautomatas.pdf_page_4.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT38" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT21" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1686"
+          HEIGHT="2804"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1686"
+                  HEIGHT="2804">
+        <TextBlock HPOS="95"
+                   VPOS="447"
+                   WIDTH="1499"
+                   HEIGHT="1337"
+                   ID="eSc_textblock_66cbcdcf"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="95 447 95 1784 1594 1784 1594 447"/></Shape>
+          <TextLine ID="eSc_line_6a5b45de"
+                    TAGREFS="LT8"
+                    BASELINE="387 548 1255 545" 
+                    HPOS="386"
+                    VPOS="489"
+                    WIDTH="869"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="387 548 387 556 1254 557 1255 545 1252 504 1174 495 1173 495 1171 495 1156 503 1112 489 1111 489 1109 489 1107 489 1106 489 1106 490 1096 500 1086 493 1084 493 1082 493 1081 493 1048 503 1034 490 1033 490 1031 490 1029 490 1028 490 1008 500 969 489 967 489 966 489 964 489 927 500 914 490 913 490 911 490 910 490 908 490 906 490 906 492 894 503 857 490 855 490 853 490 852 490 818 504 807 493 807 492 805 492 804 492 802 492 800 492 799 492 786 500 724 490 723 490 721 490 719 490 719 492 710 501 701 493 701 492 699 492 698 492 696 492 694 492 693 492 684 498 676 492 676 490 674 490 673 490 641 490 640 490 638 490 612 504 601 493 601 492 599 492 598 492 546 492 545 492 543 492 542 492 534 500 525 492 525 490 523 490 522 490 484 490 483 490 481 490 479 490 479 492 465 506 425 506 409 492 408 492 406 492 405 492 403 492 402 492 386 503 387 548"/></Shape>
+	    <String CONTENT="Á JOSÉ MARÍA RAMOS MEJÍA"
+                    HPOS="386"
+                    VPOS="489"
+                    WIDTH="869"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_63dd41bf"
+                    TAGREFS="LT8"
+                    BASELINE="168 771 1553 774" 
+                    HPOS="166"
+                    VPOS="729"
+                    WIDTH="1387"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1539 739 1523 738 1508 738 1502 738 1495 741 1467 736 1461 736 1446 735 1430 735 1416 741 1380 732 1368 732 1365 732 1319 741 1268 730 1178 730 1176 730 1174 730 1145 741 1125 730 1123 730 1121 730 1120 730 1092 741 1090 743 1005 743 1003 741 987 730 986 730 984 730 983 730 981 730 953 739 924 730 922 730 920 730 919 730 895 741 894 741 891 741 833 729 775 729 774 729 772 729 771 729 755 739 710 739 696 729 694 729 693 729 691 729 599 739 596 741 528 741 526 739 506 729 504 729 455 729 453 729 451 729 428 739 426 741 387 741 386 739 370 729 369 729 367 729 366 729 364 729 339 739 338 741 297 741 296 739 278 729 277 729 275 729 274 729 272 729 247 739 246 739 244 739 211 729 210 729 208 729 207 729 172 736 168 744 168 771 166 780 1550 783 1553 774 1553 743 1545 739 1539 739"/></Shape>
+	    <String CONTENT="Acabas de publicar un libro, delicia de los materialistas, adeptos de"
+                    HPOS="166"
+                    VPOS="729"
+                    WIDTH="1387"
+                    HEIGHT="54"
+                    WC="0.9852866780930671"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e693ca16"
+                    TAGREFS="LT8"
+                    BASELINE="126 831 1553 834" 
+                    HPOS="124"
+                    VPOS="791"
+                    WIDTH="1429"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="126 831 124 841 135 848 137 848 138 848 140 848 1551 842 1553 834 1553 805 1508 792 1506 792 1505 792 1503 792 1481 803 1461 792 1460 792 1458 792 1357 803 1355 803 1298 792 1296 792 1230 803 1227 803 1226 803 1157 792 1156 792 1154 792 1153 792 1137 803 1135 805 1050 805 1048 803 1033 792 1031 792 1029 792 1028 792 878 802 810 791 808 791 707 802 705 803 604 803 603 802 587 791 585 791 584 791 484 791 483 791 481 791 479 791 464 800 335 791 333 791 331 791 305 802 303 802 126 802 126 831"/></Shape>
+	    <String CONTENT="una escuela formidable, que vá derrumbando muchas informalidades"
+                    HPOS="124"
+                    VPOS="791"
+                    WIDTH="1429"
+                    HEIGHT="57"
+                    WC="0.9778596181135911"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c3a1b604"
+                    TAGREFS="LT8"
+                    BASELINE="124 897 573 891 1553 895" 
+                    HPOS="123"
+                    VPOS="853"
+                    WIDTH="1430"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="124 897 123 903 1550 905 1553 895 1551 866 1316 866 1315 864 1266 855 1265 855 1263 855 1243 864 1210 855 1209 855 1207 855 1121 864 1120 864 1118 864 1082 855 1081 855 1079 855 1020 864 1019 864 975 855 973 855 972 855 950 864 948 864 885 855 883 855 828 864 825 864 824 864 760 855 758 855 715 864 713 864 691 855 690 855 623 855 621 855 620 855 601 864 581 864 554 864 540 853 539 853 537 853 536 853 233 863 199 853 197 853 196 853 194 853 176 863 148 853 146 853 144 853 143 853 124 861 124 897"/></Shape>
+	    <String CONTENT="de los que se glorifican de la estacion bipeda y de cierta tercera circun¬"
+                    HPOS="123"
+                    VPOS="853"
+                    WIDTH="1430"
+                    HEIGHT="52"
+                    WC="0.9825863346860215"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0d07dffb"
+                    TAGREFS="LT8"
+                    BASELINE="126 958 992 951" 
+                    HPOS="124"
+                    VPOS="911"
+                    WIDTH="868"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="126 958 126 965 766 970 768 970 818 962 983 968 984 968 986 968 987 968 987 967 989 967 992 962 992 951 989 923 911 911 910 911 908 911 906 911 906 912 894 923 830 923 819 912 819 911 818 911 816 911 774 911 772 911 771 911 769 911 755 923 732 912 730 912 729 912 680 923 668 912 666 912 665 912 663 912 601 922 570 912 568 912 567 912 565 912 564 912 564 914 553 925 523 914 522 914 520 914 518 914 490 923 476 914 475 914 473 914 398 914 397 914 395 914 394 914 378 926 204 926 176 915 174 915 172 915 171 915 124 928 126 958"/></Shape>
+	    <String CONTENT="voliucion en el lóbulo izquierdo del cerebro."
+                    HPOS="124"
+                    VPOS="911"
+                    WIDTH="868"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1a183477"
+                    TAGREFS="LT8"
+                    BASELINE="176 1020 1556 1015" 
+                    HPOS="174"
+                    VPOS="975"
+                    WIDTH="1382"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="176 1020 176 1029 1555 1025 1556 1015 1553 987 1486 987 1463 975 1461 975 1460 975 1458 975 1456 975 1442 986 1417 975 1416 975 1414 975 1413 975 1391 987 1347 987 1313 975 1312 975 1310 975 1202 986 1131 975 1129 975 1073 984 1006 976 1005 976 1003 976 1001 976 986 987 955 976 953 976 952 976 857 986 813 976 811 976 810 976 808 976 791 987 663 981 662 981 553 989 543 989 542 989 526 978 525 978 523 978 484 978 483 978 481 978 479 978 464 989 462 990 345 990 344 989 288 978 286 978 285 978 244 989 229 978 227 978 225 978 186 978 185 978 183 978 182 978 174 984 176 1020"/></Shape>
+	    <String CONTENT="Te miro, por ello, no ya con el cariño del antiguo amigo, sinó con"
+                    HPOS="174"
+                    VPOS="975"
+                    WIDTH="1382"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7752917d"
+                    TAGREFS="LT8"
+                    BASELINE="127 1079 1558 1076" 
+                    HPOS="126"
+                    VPOS="1035"
+                    WIDTH="1432"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="127 1079 127 1090 1556 1088 1558 1076 1555 1048 1354 1048 1341 1039 1340 1039 1338 1039 1336 1039 1276 1046 1252 1035 1251 1035 1249 1035 1248 1035 1218 1043 1153 1035 1151 1035 1149 1035 1114 1046 1086 1035 1084 1035 1082 1035 1022 1046 1001 1035 1000 1035 998 1035 997 1035 959 1045 928 1035 927 1035 925 1035 874 1046 844 1035 843 1035 841 1035 793 1046 755 1037 754 1037 752 1037 751 1037 749 1037 732 1048 352 1037 350 1037 349 1037 327 1048 300 1037 299 1037 297 1037 296 1037 274 1049 185 1049 155 1037 154 1037 152 1037 151 1037 126 1048 127 1079"/></Shape>
+	    <String CONTENT="el respeto del discipulo, y me glorifico tanto más al dedicarte, como un"
+                    HPOS="126"
+                    VPOS="1035"
+                    WIDTH="1432"
+                    HEIGHT="55"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_584ff591"
+                    TAGREFS="LT8"
+                    BASELINE="126 1140 1558 1137" 
+                    HPOS="124"
+                    VPOS="1099"
+                    WIDTH="1434"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="126 1140 126 1151 546 1158 548 1158 967 1149 1017 1149 1019 1149 1029 1157 1031 1157 1033 1157 1034 1158 1137 1158 1137 1157 1251 1149 1255 1149 1257 1149 1268 1157 1269 1157 1271 1157 1273 1158 1460 1158 1460 1157 1461 1157 1478 1149 1503 1157 1505 1157 1506 1157 1556 1148 1558 1137 1556 1109 1542 1099 1541 1099 1539 1099 1537 1099 1536 1099 1508 1110 1374 1110 1358 1099 1357 1099 1355 1099 1354 1099 1352 1099 1319 1110 1279 1110 1017 1110 1014 1109 997 1099 995 1099 994 1099 899 1109 885 1109 875 1107 836 1101 835 1101 747 1107 723 1109 708 1107 670 1101 668 1101 666 1101 665 1101 657 1107 652 1110 637 1107 610 1101 609 1101 548 1107 520 1109 504 1106 475 1101 473 1101 472 1101 470 1101 462 1106 456 1110 447 1106 433 1101 431 1101 430 1101 398 1106 372 1110 124 1106 126 1140"/></Shape>
+	    <String CONTENT="homenage, este juguete discutible, cuanto que pienso en el gran nú¬"
+                    HPOS="124"
+                    VPOS="1099"
+                    WIDTH="1434"
+                    HEIGHT="59"
+                    WC="0.9877132571795407"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_83b501a1"
+                    TAGREFS="LT8"
+                    BASELINE="124 1202 1559 1202" 
+                    HPOS="124"
+                    VPOS="1162"
+                    WIDTH="1435"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="124 1202 124 1213 1559 1213 1559 1202 1559 1169 1545 1162 1544 1162 1542 1162 1541 1162 1539 1162 1516 1171 1425 1163 1424 1163 1422 1163 1388 1171 1343 1162 1341 1162 1340 1162 1338 1162 1324 1173 1252 1173 1198 1162 1196 1162 1195 1162 1193 1162 1178 1173 1096 1173 1058 1162 1056 1162 1054 1162 1053 1162 1051 1162 1039 1171 847 1171 832 1162 830 1162 828 1162 743 1162 741 1162 623 1171 604 1162 603 1162 475 1162 473 1162 472 1162 470 1162 455 1173 344 1173 306 1162 305 1162 303 1162 302 1162 300 1162 286 1171 253 1162 252 1162 250 1162 249 1162 247 1162 233 1173 124 1173 124 1202"/></Shape>
+	    <String CONTENT="mero de los que habrán escupido los venenos de su alma sobre tus pá¬"
+                    HPOS="124"
+                    VPOS="1162"
+                    WIDTH="1435"
+                    HEIGHT="51"
+                    WC="0.9859029650688171"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bbbe9e1e"
+                    TAGREFS="LT8"
+                    BASELINE="126 1264 414 1264" 
+                    HPOS="126"
+                    VPOS="1224"
+                    WIDTH="288"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="126 1264 126 1282 414 1272 414 1264 414 1236 333 1224 331 1224 330 1224 328 1224 313 1235 280 1224 278 1224 277 1224 275 1224 274 1224 274 1225 263 1236 199 1236 166 1224 165 1224 163 1224 162 1224 126 1235 126 1264"/></Shape>
+	    <String CONTENT="ginas de luz."
+                    HPOS="126"
+                    VPOS="1224"
+                    WIDTH="288"
+                    HEIGHT="58"
+                    WC="0.9996258662297175"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7ad51190"
+                    TAGREFS="LT8"
+                    BASELINE="166 1327 1556 1324" 
+                    HPOS="165"
+                    VPOS="1282"
+                    WIDTH="1391"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="166 1327 166 1336 1555 1333 1556 1324 1553 1292 1148 1282 1146 1282 1145 1282 1123 1291 1090 1282 1089 1282 1087 1282 1019 1291 1003 1282 1001 1282 1000 1282 933 1282 931 1282 930 1282 928 1282 914 1291 699 1283 698 1283 634 1292 615 1283 613 1283 612 1283 610 1283 581 1291 559 1283 557 1283 556 1283 554 1283 553 1283 539 1294 305 1294 269 1283 268 1283 266 1283 264 1283 241 1292 182 1283 180 1283 179 1283 177 1283 165 1291 166 1327"/></Shape>
+	    <String CONTENT="Puedes creer en mi sinceridad y leer el Horacio Kalibang para con¬"
+                    HPOS="165"
+                    VPOS="1282"
+                    WIDTH="1391"
+                    HEIGHT="54"
+                    WC="0.9929360250631968"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ae68db5f"
+                    TAGREFS="LT8"
+                    BASELINE="124 1389 1562 1383" 
+                    HPOS="123"
+                    VPOS="1344"
+                    WIDTH="1439"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="124 1389 124 1398 1561 1395 1562 1383 1561 1355 1536 1344 1534 1344 1533 1344 1531 1344 1511 1355 1403 1355 1388 1344 1386 1344 1385 1344 1335 1344 1333 1344 1332 1344 1330 1344 1315 1355 1192 1355 1159 1345 1157 1345 1156 1345 1107 1355 1082 1345 1081 1345 1079 1345 1020 1355 975 1345 973 1345 972 1345 970 1345 956 1355 863 1345 861 1345 860 1345 839 1356 821 1347 819 1347 818 1347 677 1356 557 1347 556 1347 554 1347 520 1356 355 1349 353 1349 297 1358 264 1349 263 1349 261 1349 202 1358 134 1350 132 1350 130 1350 129 1350 123 1353 124 1389"/></Shape>
+	    <String CONTENT="vencerte. Los que solemos escribir obras de este género no dejamos de"
+                    HPOS="123"
+                    VPOS="1344"
+                    WIDTH="1439"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_685c220b"
+                    TAGREFS="LT8"
+                    BASELINE="126 1450 1562 1445" 
+                    HPOS="124"
+                    VPOS="1408"
+                    WIDTH="1438"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="126 1450 126 1459 560 1468 562 1468 752 1459 800 1467 802 1467 902 1459 1081 1465 1082 1465 1084 1465 1086 1465 1096 1458 1098 1458 1126 1458 1536 1465 1537 1465 1539 1465 1562 1456 1562 1445 1559 1417 1432 1417 1417 1408 1416 1408 1414 1408 1413 1408 1296 1416 1259 1408 1257 1408 1255 1408 1254 1408 1241 1417 857 1417 791 1409 790 1409 788 1409 757 1417 701 1409 699 1409 698 1409 674 1417 283 1411 282 1411 280 1411 263 1419 230 1411 229 1411 227 1411 186 1419 140 1411 138 1411 137 1411 135 1411 124 1417 126 1450"/></Shape>
+	    <String CONTENT="dar á alguno de los personajes siquiera sea un rasgo de nuestro pro¬"
+                    HPOS="124"
+                    VPOS="1408"
+                    WIDTH="1438"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9fa1aead"
+                    TAGREFS="LT8"
+                    BASELINE="127 1515 403 1509" 
+                    HPOS="126"
+                    VPOS="1470"
+                    WIDTH="277"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="127 1515 127 1532 280 1523 300 1523 392 1529 394 1529 395 1529 397 1529 397 1528 398 1528 403 1521 403 1509 400 1481 336 1470 335 1470 333 1470 331 1470 331 1472 330 1472 325 1478 300 1472 299 1472 297 1472 241 1483 163 1475 162 1475 160 1475 126 1486 127 1515"/></Shape>
+	    <String CONTENT="pio carácter."
+                    HPOS="126"
+                    VPOS="1470"
+                    WIDTH="277"
+                    HEIGHT="62"
+                    WC="0.9456573171275002"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cda1f61d"
+                    TAGREFS="LT8"
+                    BASELINE="793 1599 1472 1598" 
+                    HPOS="791"
+                    VPOS="1559"
+                    WIDTH="681"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="793 1613 1472 1612 1472 1598 1469 1570 1294 1570 1235 1559 1234 1559 1232 1559 1230 1559 1230 1560 1221 1570 1051 1570 1017 1559 1015 1559 1014 1559 1012 1559 1011 1559 1011 1560 1001 1570 860 1570 799 1559 797 1559 796 1559 794 1559 794 1560 793 1560 791 1560 793 1599"/></Shape>
+	    <String CONTENT="EDUARDO LADISLAO HOLMBERG."
+                    HPOS="791"
+                    VPOS="1559"
+                    WIDTH="681"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a975d0e8"
+                    TAGREFS="LT8"
+                    BASELINE="224 1699 881 1693" 
+                    HPOS="222"
+                    VPOS="1651"
+                    WIDTH="659"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="222 1669 224 1699 224 1710 542 1716 543 1716 881 1705 881 1693 880 1662 861 1651 860 1651 858 1651 779 1651 777 1651 775 1651 744 1662 718 1651 716 1651 715 1651 713 1651 712 1651 694 1663 693 1663 691 1663 551 1652 550 1652 548 1652 546 1652 532 1663 531 1666 483 1666 479 1663 459 1654 458 1654 456 1654 400 1663 384 1668 291 1668 283 1665 261 1655 260 1655 258 1655 222 1663 222 1669"/></Shape>
+	    <String CONTENT="Buenos Aires, Enero de 1879."
+                    HPOS="222"
+                    VPOS="1651"
+                    WIDTH="659"
+                    HEIGHT="65"
+                    WC="0.9972882504974093"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ricardo Palma - Apocaliptica.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1833" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1834" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1835" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="LT733" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT734" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT735" LABEL="NumberingLine" DESCRIPTION="line type NumberingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1755"
+          HEIGHT="2712"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1755"
+                  HEIGHT="2712">
+        
+        <TextBlock HPOS="643"
+                   VPOS="194"
+                   WIDTH="435"
+                   HEIGHT="112"
+                   ID="eSc_textblock_7279e872"
+                   TAGREFS="BT1835">
+          <Shape><Polygon POINTS="643 194 643 306 1078 306 1078 194"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_729362d4"
+                    TAGREFS="LT733"
+                    BASELINE="721 293 1022 293" 
+                    HPOS="721"
+                    VPOS="253"
+                    WIDTH="301"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="721 307 1022 307 1022 293 1022 253 721 253 721 293"/></Shape>
+	    <String CONTENT="RICARDO PALMA"
+                    HPOS="721"
+                    VPOS="253"
+                    WIDTH="301"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1395"
+                   VPOS="233"
+                   WIDTH="145"
+                   HEIGHT="86"
+                   ID="eSc_textblock_e391a6a3"
+                   TAGREFS="BT1834">
+          <Shape><Polygon POINTS="1395 233 1395 319 1540 319 1540 233 1514 233"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a4b8ed5"
+                    TAGREFS="LT733"
+                    BASELINE="1429 293 1501 287" 
+                    HPOS="1424"
+                    VPOS="248"
+                    WIDTH="77"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1470 253 1447 253 1445 248 1424 250 1429 293 1429 305 1501 300 1501 287 1499 280 1492 253"/></Shape>
+	    <String CONTENT="203"
+                    HPOS="1424"
+                    VPOS="248"
+                    WIDTH="77"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="128"
+                   VPOS="352"
+                   WIDTH="1531"
+                   HEIGHT="1987"
+                   ID="eSc_textblock_046d64d7"
+                   TAGREFS="BT1833">
+          <Shape><Polygon POINTS="128 352 128 2339 1659 2339 1659 352"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_56bcb675"
+                    TAGREFS="LT734"
+                    BASELINE="823 465 902 470" 
+                    HPOS="820"
+                    VPOS="424"
+                    WIDTH="82"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="868 424 843 424 827 436 823 465 820 474 897 479 902 470 902 427 891 424 891 442"/></Shape>
+	    <String CONTENT="XII"
+                    HPOS="820"
+                    VPOS="424"
+                    WIDTH="82"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60c3cfff"
+                    TAGREFS="LT734"
+                    BASELINE="683 560 1060 560" 
+                    HPOS="683"
+                    VPOS="522"
+                    WIDTH="377"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="999 522 977 522 701 522 685 544 683 560 683 571 1060 571 1060 560 1044 522 1022 522"/></Shape>
+	    <String CONTENT="APOCALÍPTICA"
+                    HPOS="683"
+                    VPOS="522"
+                    WIDTH="377"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90e051f5"
+                    TAGREFS="LT733"
+                    BASELINE="253 655 1540 650" 
+                    HPOS="251"
+                    VPOS="614"
+                    WIDTH="1289"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1472 621 1449 621 1427 621 1404 621 1381 621 1359 621 1336 621 1313 621 1291 621 1268 621 1246 621 1223 621 1200 619 1178 619 1155 619 1133 619 1110 619 1087 619 1065 619 1042 619 1019 619 997 619 974 619 952 619 929 619 906 619 884 616 861 616 839 616 816 616 793 616 771 616 748 616 725 616 703 616 680 616 658 616 635 616 612 616 590 616 572 614 251 614 253 655 253 668 1537 664 1540 650 1517 621 1494 621"/></Shape>
+	    <String CONTENT="Y aquel día le hicieron los hombres al Señor una que le llegó à la pe¬"
+                    HPOS="251"
+                    VPOS="614"
+                    WIDTH="1289"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52bb61e8"
+                    TAGREFS="LT733"
+                    BASELINE="194 707 1537 707" 
+                    HPOS="194"
+                    VPOS="668"
+                    WIDTH="1343"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="194 707 194 723 1537 718 1537 707 1537 668 196 668 194 671"/></Shape>
+	    <String CONTENT="pita del alma; y hastiada ya de soportar iniquidades y perrerías humanas,"
+                    HPOS="194"
+                    VPOS="668"
+                    WIDTH="1343"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb7fc419"
+                    TAGREFS="LT733"
+                    BASELINE="196 754 1540 754" 
+                    HPOS="196"
+                    VPOS="718"
+                    WIDTH="1344"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="196 770 1540 770 1540 754 1531 718 196 718 196 754"/></Shape>
+	    <String CONTENT="dijo Su Divina Majestad á un angelito mofletudo que cerca de su persona."
+                    HPOS="196"
+                    VPOS="718"
+                    WIDTH="1344"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5185d705"
+                    TAGREFS="LT733"
+                    BASELINE="196 806 429 806" 
+                    HPOS="196"
+                    VPOS="768"
+                    WIDTH="233"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="196 806 196 818 429 818 429 806 429 768 196 768 196 806"/></Shape>
+	    <String CONTENT=" revoloteaba:"
+                    HPOS="196"
+                    VPOS="768"
+                    WIDTH="233"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd4b5eed"
+                    TAGREFS="LT733"
+                    BASELINE="253 854 1540 854" 
+                    HPOS="253"
+                    VPOS="815"
+                    WIDTH="1287"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="253 867 1540 867 1540 854 1531 815 253 815 253 854"/></Shape>
+	    <String CONTENT="— Vé, chico, mas que de prisa y dile á Vicente Ferrer que lo espero en"
+                    HPOS="253"
+                    VPOS="815"
+                    WIDTH="1287"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4c2f893"
+                    TAGREFS="LT733"
+                    BASELINE="194 903 1420 903" 
+                    HPOS="194"
+                    VPOS="867"
+                    WIDTH="1226"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="194 903 194 917 1420 917 1420 903 1420 867 194 867 194 903"/></Shape>
+	    <String CONTENT="el valle de Josafat.... ¡Ah! Y dile que no deje olvidada la trompeta."
+                    HPOS="194"
+                    VPOS="867"
+                    WIDTH="1226"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5a409ff"
+                    TAGREFS="LT733"
+                    BASELINE="251 953 1540 946" 
+                    HPOS="248"
+                    VPOS="910"
+                    WIDTH="1292"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="251 967 1537 960 1540 946 1535 913 248 910 251 953"/></Shape>
+	    <String CONTENT="Y Vicente Ferrer que, como ustedes saben, fué sobre la tierra político."
+                    HPOS="248"
+                    VPOS="910"
+                    WIDTH="1292"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0826d0be"
+                    TAGREFS="LT733"
+                    BASELINE="192 1003 1537 996" 
+                    HPOS="189"
+                    VPOS="962"
+                    WIDTH="1348"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="192 1003 192 1014 1535 1007 1537 996 1531 962 189 967 192 1003"/></Shape>
+	    <String CONTENT="(revolucionario y orador tribunicio, lo que no obstó para que Roma lo"
+                    HPOS="189"
+                    VPOS="962"
+                    WIDTH="1348"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85f5e1ba"
+                    TAGREFS="LT733"
+                    BASELINE="196 1053 1540 1046" 
+                    HPOS="194"
+                    VPOS="1012"
+                    WIDTH="1346"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="196 1053 196 1066 1537 1059 1540 1046 1531 1012 194 1016 196 1053"/></Shape>
+	    <String CONTENT="matriculase de santo, se presentó, trompeta en mano, en el valle de la"
+                    HPOS="194"
+                    VPOS="1012"
+                    WIDTH="1346"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d01f32fe"
+                    TAGREFS="LT733"
+                    BASELINE="189 1102 280 1102" 
+                    HPOS="189"
+                    VPOS="1055"
+                    WIDTH="91"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="189 1102 189 1114 280 1114 280 1102 280 1071 214 1055 212 1055 210 1055 189 1102"/></Shape>
+	    <String CONTENT="cita."
+                    HPOS="189"
+                    VPOS="1055"
+                    WIDTH="91"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85f7889f"
+                    TAGREFS="LT733"
+                    BASELINE="248 1152 1540 1145" 
+                    HPOS="246"
+                    VPOS="1111"
+                    WIDTH="1294"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="248 1152 248 1161 1540 1154 1540 1145 1533 1111 246 1116 248 1152"/></Shape>
+	    <String CONTENT="— Ya no aguanto mas á esa canalla ingrata que sólo me proporciona"
+                    HPOS="246"
+                    VPOS="1111"
+                    WIDTH="1294"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b765c5ee"
+                    TAGREFS="LT733"
+                    BASELINE="192 1202 943 1202" 
+                    HPOS="192"
+                    VPOS="1163"
+                    WIDTH="751"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="192 1202 192 1215 943 1215 943 1202 943 1163 192 1163 192 1202"/></Shape>
+	    <String CONTENT="desazones. Convoca, hijo, á Juicio Final."
+                    HPOS="192"
+                    VPOS="1163"
+                    WIDTH="751"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c9e5385"
+                    TAGREFS="LT733"
+                    BASELINE="248 1252 1535 1247" 
+                    HPOS="246"
+                    VPOS="1206"
+                    WIDTH="1289"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="248 1252 248 1263 1533 1258 1535 1247 1531 1211 246 1206 248 1252"/></Shape>
+	    <String CONTENT="Y Vicente Ferrer, tras hacer buen acopio de aire en los pulmones,"
+                    HPOS="246"
+                    VPOS="1206"
+                    WIDTH="1289"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13430601"
+                    TAGREFS="LT733"
+                    BASELINE="189 1299 1155 1299" 
+                    HPOS="189"
+                    VPOS="1263"
+                    WIDTH="966"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="189 1299 189 1313 1155 1313 1155 1299 1155 1263 196 1263 189 1299"/></Shape>
+	    <String CONTENT="largó un trompetazo que repercutió en ambos polos."
+                    HPOS="189"
+                    VPOS="1263"
+                    WIDTH="966"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_456fbd37"
+                    TAGREFS="LT733"
+                    BASELINE="251 1349 1537 1344" 
+                    HPOS="248"
+                    VPOS="1308"
+                    WIDTH="1289"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="251 1349 251 1362 1535 1358 1537 1344 1533 1310 248 1308 251 1349"/></Shape>
+	    <String CONTENT="Y de todas partes, mas ó menos presurosos, acudían los muertos, aban¬"
+                    HPOS="248"
+                    VPOS="1308"
+                    WIDTH="1289"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_196770e5"
+                    TAGREFS="LT733"
+                    BASELINE="189 1396 1535 1396" 
+                    HPOS="189"
+                    VPOS="1362"
+                    WIDTH="1346"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="189 1396 189 1410 1535 1410 1535 1396 1535 1362 196 1362 189 1396"/></Shape>
+	    <String CONTENT="donando sus sepulturas, á la universal convocatoria. Pero corrían las"
+                    HPOS="189"
+                    VPOS="1362"
+                    WIDTH="1346"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87d49856"
+                    TAGREFS="LT733"
+                    BASELINE="189 1448 1535 1444" 
+                    HPOS="189"
+                    VPOS="1407"
+                    WIDTH="1346"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="189 1448 189 1462 1533 1457 1535 1444 1531 1410 205 1407 189 1448"/></Shape>
+	    <String CONTENT="horas y el Juicio no tenía cuando principiar, y Vicente, falto ya de fuer¬"
+                    HPOS="189"
+                    VPOS="1407"
+                    WIDTH="1346"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e3d71ef"
+                    TAGREFS="LT733"
+                    BASELINE="189 1496 1171 1500" 
+                    HPOS="187"
+                    VPOS="1459"
+                    WIDTH="984"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="189 1496 187 1509 1166 1511 1171 1500 1169 1462 205 1459 189 1496"/></Shape>
+	    <String CONTENT="zas, apenas hacía resonar el instrumento. Al fin dijo:"
+                    HPOS="187"
+                    VPOS="1459"
+                    WIDTH="984"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8380483"
+                    TAGREFS="LT733"
+                    BASELINE="246 1545 825 1550" 
+                    HPOS="244"
+                    VPOS="1509"
+                    WIDTH="581"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="246 1545 244 1554 820 1559 825 1550 823 1514 246 1509 246 1545"/></Shape>
+	    <String CONTENT="— Señor, no puedo soplar más."
+                    HPOS="244"
+                    VPOS="1509"
+                    WIDTH="581"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f4f986e"
+                    TAGREFS="LT733"
+                    BASELINE="244 1600 936 1600" 
+                    HPOS="244"
+                    VPOS="1554"
+                    WIDTH="692"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="244 1600 244 1611 936 1611 936 1600 936 1563 244 1554 244 1600"/></Shape>
+	    <String CONTENT="Y la trompeta se le cayó de la mano."
+                    HPOS="244"
+                    VPOS="1554"
+                    WIDTH="692"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f90ad71"
+                    TAGREFS="LT733"
+                    BASELINE="246 1647 1535 1640" 
+                    HPOS="244"
+                    VPOS="1606"
+                    WIDTH="1291"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="246 1647 246 1661 1533 1654 1535 1640 1528 1606 244 1611 246 1647"/></Shape>
+	    <String CONTENT="— Haz un esfuerzo, Vicente, y sigue tocando llamada y llamada. El Jui¬"
+                    HPOS="244"
+                    VPOS="1606"
+                    WIDTH="1291"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2b42607"
+                    TAGREFS="LT733"
+                    BASELINE="185 1694 1535 1694" 
+                    HPOS="185"
+                    VPOS="1661"
+                    WIDTH="1350"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="185 1694 185 1710 1535 1710 1535 1694 1535 1661 185 1661 185 1694"/></Shape>
+	    <String CONTENT="cio Final no puede comenzar, porque todavía falta un pueblo. ¡Vaya una"
+                    HPOS="185"
+                    VPOS="1661"
+                    WIDTH="1350"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5689231e"
+                    TAGREFS="LT733"
+                    BASELINE="180 1751 1336 1744" 
+                    HPOS="178"
+                    VPOS="1708"
+                    WIDTH="1158"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="180 1751 180 1760 1334 1753 1336 1744 1329 1708 178 1713 180 1751"/></Shape>
+	    <String CONTENT="gente para remolona y perezosa!— murmuró el Supremo Juez."
+                    HPOS="178"
+                    VPOS="1708"
+                    WIDTH="1158"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99a3c564"
+                    TAGREFS="LT733"
+                    BASELINE="244 1794 1137 1798 1528 1787" 
+                    HPOS="241"
+                    VPOS="1758"
+                    WIDTH="1287"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="244 1794 244 1807 1526 1805 1528 1787 1524 1758 241 1758 244 1794"/></Shape>
+	    <String CONTENT="— Si no es indiscreta la pregunta, ¿puede saberse, Señor, qué pueblo"
+                    HPOS="241"
+                    VPOS="1758"
+                    WIDTH="1287"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9262eb8"
+                    TAGREFS="LT733"
+                    BASELINE="176 1841 321 1846" 
+                    HPOS="174"
+                    VPOS="1805"
+                    WIDTH="147"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="176 1837 176 1841 174 1850 316 1855 321 1846 321 1807 185 1805 176 1837"/></Shape>
+	    <String CONTENT="es ese?"
+                    HPOS="174"
+                    VPOS="1805"
+                    WIDTH="147"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba11e39d"
+                    TAGREFS="LT733"
+                    BASELINE="244 1893 895 1898" 
+                    HPOS="241"
+                    VPOS="1844"
+                    WIDTH="654"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="244 1893 241 1902 891 1907 895 1898 893 1859 816 1846 814 1846 811 1846 768 1857 750 1846 748 1846 746 1846 744 1846 741 1846 739 1846 721 1857 719 1857 588 1857 576 1857 556 1844 554 1844 551 1844 549 1844 547 1844 504 1855 429 1844 427 1844 244 1853 244 1893"/></Shape>
+	    <String CONTENT="— El de Lima, Vicente, el de Lima."
+                    HPOS="241"
+                    VPOS="1844"
+                    WIDTH="654"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af156be2"
+                    TAGREFS="LT733"
+                    BASELINE="241 1945 1535 1941" 
+                    HPOS="239"
+                    VPOS="1898"
+                    WIDTH="1296"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1528 1925 1513 1905 307 1898 305 1898 239 1909 241 1945 241 1959 1533 1954 1535 1941 1528 1925 1528 1925"/></Shape>
+	    <String CONTENT="¡Ah, Señor! Si lo esperas, ya tienes para rato. Ese pueblo no despierta."
+                    HPOS="239"
+                    VPOS="1898"
+                    WIDTH="1296"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a7b1b21"
+                    TAGREFS="LT733"
+                    BASELINE="174 1988 1237 1997" 
+                    HPOS="171"
+                    VPOS="1954"
+                    WIDTH="1066"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="174 1984 174 1988 171 2000 1232 2009 1237 1997 1234 1961 187 1954 174 1984"/></Shape>
+	    <String CONTENT="de su sueno ni á cañonazos. Los limeños no se levantan."
+                    HPOS="171"
+                    VPOS="1954"
+                    WIDTH="1066"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_857b6c02"
+                    TAGREFS="LT733"
+                    BASELINE="237 2040 1029 2047" 
+                    HPOS="235"
+                    VPOS="1997"
+                    WIDTH="794"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="237 2040 235 2049 1024 2056 1029 2047 1026 2011 764 1997 762 1997 237 2002 237 2040"/></Shape>
+	    <String CONTENT="— Pues entonces, declaro abierta la sesión."
+                    HPOS="235"
+                    VPOS="1997"
+                    WIDTH="794"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_827076ba"
+                    TAGREFS="LT733"
+                    BASELINE="239 2092 1535 2085" 
+                    HPOS="237"
+                    VPOS="2049"
+                    WIDTH="1298"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="239 2092 239 2106 1533 2099 1535 2085 1531 2054 237 2049 239 2092"/></Shape>
+	    <String CONTENT="Y cata que, si la profecía no marra, los limeños seremos los únicos"
+                    HPOS="237"
+                    VPOS="2049"
+                    WIDTH="1298"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc963823"
+                    TAGREFS="LT733"
+                    BASELINE="171 2140 1533 2140" 
+                    HPOS="171"
+                    VPOS="2106"
+                    WIDTH="1362"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="171 2140 171 2158 1533 2158 1533 2140 1533 2106 187 2106 171 2140"/></Shape>
+	    <String CONTENT="humanos sobre los que no caerá premio ni castigo en la hora suprema"
+                    HPOS="171"
+                    VPOS="2106"
+                    WIDTH="1362"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3d2b53f"
+                    TAGREFS="LT733"
+                    BASELINE="171 2189 943 2194" 
+                    HPOS="169"
+                    VPOS="2153"
+                    WIDTH="774"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="938 2189 922 2153 187 2153 171 2189 169 2203 938 2208 943 2194 940 2187 938 2189"/></Shape>
+	    <String CONTENT="del gran Juicio. ¡Válganos Santa Pereza!"
+                    HPOS="169"
+                    VPOS="2153"
+                    WIDTH="774"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
